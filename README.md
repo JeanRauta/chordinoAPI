@@ -9,7 +9,7 @@ Esse código implementa uma API em Flask para identificar acordes de um arquivo 
 
 ### Dependências
 
-O código utiliza as bibliotecas [yt_dlp](https://documenter.getpostman.com/view/32180238/2sAYQXnCcv) para baixar vídeos do YouTube, [chord_extractor](https://documenter.getpostman.com/view/32180238/2sAYQXnCcv) para extrair acordes, e `flask` para criar a API.
+O código utiliza as bibliotecas [yt_dlp](https://github.com/yt-dlp/yt-dlp.git) para baixar vídeos do YouTube, [chord_extractor](https://github.com/ohollo/chord-extractor.git) para extrair acordes, e `flask` para criar a API.
 
 ### Funções principais:
 
@@ -131,4 +131,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](./LIC
 
 ---
 
-Feito por Jean Rauta
+Feito por [Jean Rauta](https://github.com/JeanRauta)
